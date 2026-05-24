@@ -16,8 +16,8 @@ The system uses water quality parameters such as:
 - Turbidity
 
 A Random Forest Classifier is trained on the Water Potability Dataset to classify water as:
-- Safe
-- Unsafe
+- Safe water for drinking
+- Unsafe water for drinking
 
 ---
 
