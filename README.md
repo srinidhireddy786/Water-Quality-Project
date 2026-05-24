@@ -129,4 +129,5 @@ streamlit run app.py
 
 ## Author
 
-Srinidhi Reddy A
+A Srinidhi Reddy
+A Sriram Reddy
