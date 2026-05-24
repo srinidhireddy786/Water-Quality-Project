@@ -129,5 +129,5 @@ streamlit run app.py
 
 ## Author
 
-A Srinidhi Reddy
-A Sriram Reddy
+- Srinidhi Reddy (23B81A66J0)
+- Sriram Reddy (23B81A05GZ)
